@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "users": [
+    {
+      "user_name": "Ahmed",
+      "mac_address": "هنا_كود_التفعيل",
+      "end_date": "2025-12-31 23:59:59"
+    }
+  ]
+}
