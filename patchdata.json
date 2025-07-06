@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "update_url": "https://yourdomain.com/update.json",
   "users": [
     {
       "user_name": "Flare",
