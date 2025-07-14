@@ -5,7 +5,12 @@
     {
       "user_name": "3WAD",
       "mac_address": "zvTu0ibQ/Bn2OxgSrQZR1IDH0r2um4aCO1Pe3SFPl+aQwjlY7zIsq+Bqx5s7l2zu51Ncaf4+tdR4csTa8gpkdOOkBJnx1O5t1mcVtVug4lnLvgjh85BSLf27DDmWLy7kTs5sYHU8C9J6pveokje2Mb1T0+Pj8PxWIMUDq3W7Xh3COgDDILGlztB8LMW1TrSdByNZsecE5xX1xC+si5UpntzsXzuhVtQqWsdDl7x0iTi8RDCC6NMb4oLd6fDpCR1pcxArPWARVQVEKpd51u5PLA==",
-      "end_date": "2025-12-8 11:19:40"
+      "end_date": "2025-12-08 11:19:40"
+    },
+    {
+      "user_name": "NEW_USER",
+      "mac_address": "NEW_MAC_ADDRESS_ENCRYPTED",
+      "end_date": "2025-12-08 11:19:40"
     }
   ]
 }
