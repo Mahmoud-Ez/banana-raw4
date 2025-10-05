@@ -51,6 +51,12 @@
       "user_name": "𝗡𝗲𝘂𝘁𝗿𝗼𝗻",
       "mac_address": "71rV08LJAn8RdFrE4kIba1q5EeZvSO4uug3FIRDSfu0o7AsTmnlu5zlgyF+mfVo/XX2Kpjjbl8uzbWPs9TkDMxPdYV+PTf4KFdff42OC3VQ=",
       "end_date": "2099-12-08 11:19:40"
+      },
+    {
+      "user_name": "VM",
+      "mac_address": "5QyHzLQDTp1BsRgQtI56oLmqJ4poQrtfwnyjd80+kMZ9pXaO1AUgSJdP9so5Z3AHsSZeQz0BouImHWOkJpcIMdGDip0cPeqy7gBdzmqihzw=",
+      "end_date": "2099-12-08 11:19:40",
+      "card": "yes"
     }
   ]
 }
