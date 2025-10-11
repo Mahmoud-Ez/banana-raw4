@@ -38,17 +38,7 @@
       "end_date": "2099-12-08 11:19:40"
     },
     {
-      "user_name": "3wad",
-      "mac_address": "5kSqt+85C2oCY7wci47i1m6FcWCKPUeDbXffIZdqNqdg6GAfFrLjy83J8v5FJZ038HS5g+UBzWL/J/ZTzZG9InmkBhDVeJ4lOxqcr/HvahM=",
-      "end_date": "2099-12-08 11:19:40"
-    },
-    {
-      "user_name": "3wad2",
-      "mac_address": "5kSqt+85C2oCY7wci47i1rLdRAJju1y7NDjNS/JNMz/4vE8ES+zygCPZO073ordFymoSYN8S44BBGv53UymJKwWwEE8hjzftUC1syRPGkuungS1NmMjKOG5CGXO0JTX/",
-      "end_date": "2099-12-08 11:19:40"
-    },
-    {
-      "user_name": "𝗡𝗲𝘂𝘁𝗿𝗼𝗻",
+      "user_name": "Neutron",
       "mac_address": "71rV08LJAn8RdFrE4kIba1q5EeZvSO4uug3FIRDSfu0o7AsTmnlu5zlgyF+mfVo/XX2Kpjjbl8uzbWPs9TkDMxPdYV+PTf4KFdff42OC3VQ=",
       "end_date": "2099-12-08 11:19:40"
     },
@@ -60,6 +50,11 @@
     {
       "user_name": "Weston",
       "mac_address": "WroLfj1515v2LeyJeJsSKcfpIVZTgTSqsAziAlEhrZY6fB9JCfQ9MVMMAGUtnXqNLKj1tpSH9EojsRo4GtgOnBtANZVkujGoIgeFziVo0KLRnbZLnVYhc1vn7uQSmlVD",
+      "end_date": "2099-12-08 11:19:40"
+    },
+    {
+      "user_name": "Alex",
+      "mac_address": "XyZ123FakeMacAddressExample==",
       "end_date": "2099-12-08 11:19:40"
     }
   ]
